@@ -1,0 +1,62 @@
+*{
+    padding:0px;
+    margin:0px;
+    border:0px;  
+}
+html,body{
+    height:100%;
+    overflow:hidden; 
+}
+.body_login{
+    background-image: url("../images/emergency3.jpg");
+    
+    
+}
+.login_center{
+    height:100%;
+    width:100%;
+    background-color: buttonface; 
+    position: relative;
+    
+}
+#login_forma{
+    height: 260px;
+    width: 260px;
+    position: relative; 
+    background-color: gainsboro;
+    top: calc(50% - 150px);
+    left: calc(50% - 150px);
+    padding: 30px;
+    border: 1px solid darkslategray;
+    border-radius: 6px;
+    
+}
+.footer_login{
+    width:200px;
+    position:absolute;
+    bottom: 5%;
+    left: calc(50% - 90px);
+}
+.container_article{
+    border-radius: 10px;
+    width:60%;
+    margin-left: 7%;           
+    background-color: transparent;
+  
+}
+.card{
+    max-width: 800px;
+    
+}
+.btn_forma{
+    float:left;
+    margin-left: 15px;
+    margin-top: 5px;
+    
+}
+.action_btn{
+    margin:5px;
+    border-radius: 3px;
+    
+}
+

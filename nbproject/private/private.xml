@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Milly/Desktop/TenderAPP1/web/loginValid.jsp</file>
+            <file>file:/C:/Users/Milly/Desktop/TenderAPP1/src/java/com/tenderplus/dao/LoginZaposleniDAO.java</file>
+            <file>file:/C:/Users/Milly/Desktop/TenderAPP1/web/menadzment/izmeni_zaposlenog.jsp</file>
+            <file>file:/C:/Users/Milly/Desktop/TenderAPP1/src/java/com/tenderplus/util/LogoutServlet.java</file>
+            <file>file:/C:/Users/Milly/Desktop/TenderAPP1/src/java/com/tenderplus/controllers/TenderiController.java</file>
+            <file>file:/C:/Users/Milly/Desktop/TenderAPP1/src/java/com/tenderplus/controllers/PotrosniMController.java</file>
+            <file>file:/C:/Users/Milly/Desktop/TenderAPP1/src/java/com/tenderplus/entities/Zaposleni.java</file>
+            <file>file:/C:/Users/Milly/Desktop/TenderAPP1/src/java/com/tenderplus/entities/LoginZaposleni.java</file>
+            <file>file:/C:/Users/Milly/Desktop/TenderAPP1/src/java/com/tenderplus/controllers/ServiseriController.java</file>
+            <file>file:/C:/Users/Milly/Desktop/TenderAPP1/src/java/com/tenderplus/controllers/ZaposleniController.java</file>
+            <file>file:/C:/Users/Milly/Desktop/TenderAPP1/src/java/com/tenderplus/controllers/LoginZaposleniController.java</file>
+            <file>file:/C:/Users/Milly/Desktop/TenderAPP1/src/java/com/tenderplus/controllers/DeloviController.java</file>
+            <file>file:/C:/Users/Milly/Desktop/TenderAPP1/src/java/com/tenderplus/controllers/OpremaController.java</file>
+            <file>file:/C:/Users/Milly/Desktop/TenderAPP1/web/index.jsp</file>
+            <file>file:/C:/Users/Milly/Desktop/TenderAPP1/src/java/com/tenderplus/controllers/RoleController.java</file>
+            <file>file:/C:/Users/Milly/Desktop/TenderAPP1/web/menadzment/izmeni_servisera.jsp</file>
+            <file>file:/C:/Users/Milly/Desktop/TenderAPP1/web/menadzment/dodaj_zaposlenog.jsp</file>
+            <file>file:/C:/Users/Milly/Desktop/TenderAPP1/web/login.jsp</file>
+            <file>file:/C:/Users/Milly/Desktop/TenderAPP1/web/menadzment/dodaj_servisera.jsp</file>
+            <file>file:/C:/Users/Milly/Desktop/TenderAPP1/src/java/com/tenderplus/dao/LoginZaposleniDAOImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
